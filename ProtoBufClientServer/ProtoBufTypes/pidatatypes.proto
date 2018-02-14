@@ -1,0 +1,16 @@
+﻿syntax = "proto3";
+package ProtoBufClientServer;
+
+import "google/protobuf/timestamp.proto";
+
+message DoubleValues
+{
+   string name = 1;
+
+   message valueWithTimestamp
+   {
+      double value = 1;
+      google.protobuf.Timestamp time = 2;
+   }
+   repeated valueWithTimestamp values = 2;
+}

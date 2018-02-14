@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoBufClient", "ProtoBufC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoBufServer", "ProtoBufServer\ProtoBufServer.csproj", "{6B25FF5A-3B81-4480-8F92-62FFC641CF63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoBufTypes", "ProtoBufTypes\ProtoBufTypes.csproj", "{DD4098B3-4600-4902-9C5D-99454F021157}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6B25FF5A-3B81-4480-8F92-62FFC641CF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B25FF5A-3B81-4480-8F92-62FFC641CF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B25FF5A-3B81-4480-8F92-62FFC641CF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4098B3-4600-4902-9C5D-99454F021157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4098B3-4600-4902-9C5D-99454F021157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4098B3-4600-4902-9C5D-99454F021157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4098B3-4600-4902-9C5D-99454F021157}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
