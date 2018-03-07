@@ -29,37 +29,37 @@ namespace ProtoBufClientServer {
             "cxIMCgRuYW1lGAEgASgJEkUKBnZhbHVlcxgCIAMoCzI1LlByb3RvQnVmQ2xp",
             "ZW50U2VydmVyLkRvdWJsZVZhbHVlcy52YWx1ZVdpdGhUaW1lc3RhbXAaTQoS",
             "dmFsdWVXaXRoVGltZXN0YW1wEg0KBXZhbHVlGAEgASgBEigKBHRpbWUYAiAB",
-            "KAsyGi5nb29nbGUucHJvdG9idWYuVGltZXN0YW1wItsHCg5WYWx1ZXNGb3JQ",
-            "b2ludBIRCglwb2ludE5hbWUYASABKAkSNwoEdHlwZRgCIAEoDjIpLlByb3Rv",
-            "QnVmQ2xpZW50U2VydmVyLlZhbHVlc0ZvclBvaW50LlR5cGUSTgoKdmFsdWVz",
-            "X2ludBgDIAMoCzI6LlByb3RvQnVmQ2xpZW50U2VydmVyLlZhbHVlc0ZvclBv",
-            "aW50LmludFZhbHVlV2l0aFRpbWVzdGFtcBJUCg12YWx1ZXNfZG91YmxlGAQg",
-            "AygLMj0uUHJvdG9CdWZDbGllbnRTZXJ2ZXIuVmFsdWVzRm9yUG9pbnQuZG91",
-            "YmxlVmFsdWVXaXRoVGltZXN0YW1wElQKDXZhbHVlc19zdHJpbmcYBSADKAsy",
-            "PS5Qcm90b0J1ZkNsaWVudFNlcnZlci5WYWx1ZXNGb3JQb2ludC5zdHJpbmdW",
-            "YWx1ZVdpdGhUaW1lc3RhbXASUAoLdmFsdWVzX2Jsb2IYBiADKAsyOy5Qcm90",
-            "b0J1ZkNsaWVudFNlcnZlci5WYWx1ZXNGb3JQb2ludC5ibG9iVmFsdWVXaXRo",
-            "VGltZXN0YW1wElAKC3ZhbHVlc19ib29sGAcgAygLMjsuUHJvdG9CdWZDbGll",
-            "bnRTZXJ2ZXIuVmFsdWVzRm9yUG9pbnQuYm9vbFZhbHVlV2l0aFRpbWVzdGFt",
-            "cBpQChVpbnRWYWx1ZVdpdGhUaW1lc3RhbXASDQoFdmFsdWUYASABKAMSKAoE",
-            "dGltZRgCIAEoCzIaLmdvb2dsZS5wcm90b2J1Zi5UaW1lc3RhbXAaUwoYZG91",
-            "YmxlVmFsdWVXaXRoVGltZXN0YW1wEg0KBXZhbHVlGAEgASgBEigKBHRpbWUY",
-            "AiABKAsyGi5nb29nbGUucHJvdG9idWYuVGltZXN0YW1wGlMKGHN0cmluZ1Zh",
-            "bHVlV2l0aFRpbWVzdGFtcBINCgV2YWx1ZRgBIAEoCRIoCgR0aW1lGAIgASgL",
-            "MhouZ29vZ2xlLnByb3RvYnVmLlRpbWVzdGFtcBpRChZibG9iVmFsdWVXaXRo",
-            "VGltZXN0YW1wEg0KBXZhbHVlGAEgASgMEigKBHRpbWUYAiABKAsyGi5nb29n",
-            "bGUucHJvdG9idWYuVGltZXN0YW1wGlEKFmJvb2xWYWx1ZVdpdGhUaW1lc3Rh",
-            "bXASDQoFdmFsdWUYASABKAgSKAoEdGltZRgCIAEoCzIaLmdvb2dsZS5wcm90",
-            "b2J1Zi5UaW1lc3RhbXAiOwoEVHlwZRIHCgNJTlQQABIKCgZET1VCTEUQARIK",
-            "CgZTVFJJTkcQAhIICgRCTE9CEAMSCAoEQk9PTBAEIoQBCgxDaGFuZ2VSZWNv",
-            "cmQSPwoJb3BlcmF0aW9uGAEgASgOMiwuUHJvdG9CdWZDbGllbnRTZXJ2ZXIu",
-            "Q2hhbmdlUmVjb3JkLk9wZXJhdGlvbhIRCglwb2ludE5hbWUYAiABKAkiIAoJ",
-            "T3BlcmF0aW9uEgcKA0FERBAAEgoKBkRFTEVURRABYgZwcm90bzM="));
+            "KAsyGi5nb29nbGUucHJvdG9idWYuVGltZXN0YW1wIt8HCg5WYWx1ZXNGb3JQ",
+            "b2ludBIRCglwb2ludE5hbWUYASABKAkSOwoIZGF0YVR5cGUYAiABKA4yKS5Q",
+            "cm90b0J1ZkNsaWVudFNlcnZlci5WYWx1ZXNGb3JQb2ludC5UeXBlEk4KCnZh",
+            "bHVlc19pbnQYAyADKAsyOi5Qcm90b0J1ZkNsaWVudFNlcnZlci5WYWx1ZXNG",
+            "b3JQb2ludC5pbnRWYWx1ZVdpdGhUaW1lc3RhbXASVAoNdmFsdWVzX2RvdWJs",
+            "ZRgEIAMoCzI9LlByb3RvQnVmQ2xpZW50U2VydmVyLlZhbHVlc0ZvclBvaW50",
+            "LmRvdWJsZVZhbHVlV2l0aFRpbWVzdGFtcBJUCg12YWx1ZXNfc3RyaW5nGAUg",
+            "AygLMj0uUHJvdG9CdWZDbGllbnRTZXJ2ZXIuVmFsdWVzRm9yUG9pbnQuc3Ry",
+            "aW5nVmFsdWVXaXRoVGltZXN0YW1wElAKC3ZhbHVlc19ibG9iGAYgAygLMjsu",
+            "UHJvdG9CdWZDbGllbnRTZXJ2ZXIuVmFsdWVzRm9yUG9pbnQuYmxvYlZhbHVl",
+            "V2l0aFRpbWVzdGFtcBJQCgt2YWx1ZXNfYm9vbBgHIAMoCzI7LlByb3RvQnVm",
+            "Q2xpZW50U2VydmVyLlZhbHVlc0ZvclBvaW50LmJvb2xWYWx1ZVdpdGhUaW1l",
+            "c3RhbXAaUAoVaW50VmFsdWVXaXRoVGltZXN0YW1wEg0KBXZhbHVlGAEgASgD",
+            "EigKBHRpbWUYAiABKAsyGi5nb29nbGUucHJvdG9idWYuVGltZXN0YW1wGlMK",
+            "GGRvdWJsZVZhbHVlV2l0aFRpbWVzdGFtcBINCgV2YWx1ZRgBIAEoARIoCgR0",
+            "aW1lGAIgASgLMhouZ29vZ2xlLnByb3RvYnVmLlRpbWVzdGFtcBpTChhzdHJp",
+            "bmdWYWx1ZVdpdGhUaW1lc3RhbXASDQoFdmFsdWUYASABKAkSKAoEdGltZRgC",
+            "IAEoCzIaLmdvb2dsZS5wcm90b2J1Zi5UaW1lc3RhbXAaUQoWYmxvYlZhbHVl",
+            "V2l0aFRpbWVzdGFtcBINCgV2YWx1ZRgBIAEoDBIoCgR0aW1lGAIgASgLMhou",
+            "Z29vZ2xlLnByb3RvYnVmLlRpbWVzdGFtcBpRChZib29sVmFsdWVXaXRoVGlt",
+            "ZXN0YW1wEg0KBXZhbHVlGAEgASgIEigKBHRpbWUYAiABKAsyGi5nb29nbGUu",
+            "cHJvdG9idWYuVGltZXN0YW1wIjsKBFR5cGUSBwoDSU5UEAASCgoGRE9VQkxF",
+            "EAESCgoGU1RSSU5HEAISCAoEQkxPQhADEggKBEJPT0wQBCKEAQoMQ2hhbmdl",
+            "UmVjb3JkEj8KCW9wZXJhdGlvbhgBIAEoDjIsLlByb3RvQnVmQ2xpZW50U2Vy",
+            "dmVyLkNoYW5nZVJlY29yZC5PcGVyYXRpb24SEQoJcG9pbnROYW1lGAIgASgJ",
+            "IiAKCU9wZXJhdGlvbhIHCgNBREQQABIKCgZERUxFVEUQAWIGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.WellKnownTypes.TimestampReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.DoubleValues), global::ProtoBufClientServer.DoubleValues.Parser, new[]{ "Name", "Values" }, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.DoubleValues.Types.valueWithTimestamp), global::ProtoBufClientServer.DoubleValues.Types.valueWithTimestamp.Parser, new[]{ "Value", "Time" }, null, null, null)}),
-            new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ValuesForPoint), global::ProtoBufClientServer.ValuesForPoint.Parser, new[]{ "PointName", "Type", "ValuesInt", "ValuesDouble", "ValuesString", "ValuesBlob", "ValuesBool" }, null, new[]{ typeof(global::ProtoBufClientServer.ValuesForPoint.Types.Type) }, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ValuesForPoint.Types.intValueWithTimestamp), global::ProtoBufClientServer.ValuesForPoint.Types.intValueWithTimestamp.Parser, new[]{ "Value", "Time" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ValuesForPoint), global::ProtoBufClientServer.ValuesForPoint.Parser, new[]{ "PointName", "DataType", "ValuesInt", "ValuesDouble", "ValuesString", "ValuesBlob", "ValuesBool" }, null, new[]{ typeof(global::ProtoBufClientServer.ValuesForPoint.Types.Type) }, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ValuesForPoint.Types.intValueWithTimestamp), global::ProtoBufClientServer.ValuesForPoint.Types.intValueWithTimestamp.Parser, new[]{ "Value", "Time" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ValuesForPoint.Types.doubleValueWithTimestamp), global::ProtoBufClientServer.ValuesForPoint.Types.doubleValueWithTimestamp.Parser, new[]{ "Value", "Time" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ValuesForPoint.Types.stringValueWithTimestamp), global::ProtoBufClientServer.ValuesForPoint.Types.stringValueWithTimestamp.Parser, new[]{ "Value", "Time" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ValuesForPoint.Types.blobValueWithTimestamp), global::ProtoBufClientServer.ValuesForPoint.Types.blobValueWithTimestamp.Parser, new[]{ "Value", "Time" }, null, null, null),
@@ -416,7 +416,7 @@ namespace ProtoBufClientServer {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public ValuesForPoint(ValuesForPoint other) : this() {
       pointName_ = other.pointName_;
-      type_ = other.type_;
+      dataType_ = other.dataType_;
       valuesInt_ = other.valuesInt_.Clone();
       valuesDouble_ = other.valuesDouble_.Clone();
       valuesString_ = other.valuesString_.Clone();
@@ -441,14 +441,14 @@ namespace ProtoBufClientServer {
       }
     }
 
-    /// <summary>Field number for the "type" field.</summary>
-    public const int TypeFieldNumber = 2;
-    private global::ProtoBufClientServer.ValuesForPoint.Types.Type type_ = 0;
+    /// <summary>Field number for the "dataType" field.</summary>
+    public const int DataTypeFieldNumber = 2;
+    private global::ProtoBufClientServer.ValuesForPoint.Types.Type dataType_ = 0;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    public global::ProtoBufClientServer.ValuesForPoint.Types.Type Type {
-      get { return type_; }
+    public global::ProtoBufClientServer.ValuesForPoint.Types.Type DataType {
+      get { return dataType_; }
       set {
-        type_ = value;
+        dataType_ = value;
       }
     }
 
@@ -516,7 +516,7 @@ namespace ProtoBufClientServer {
         return true;
       }
       if (PointName != other.PointName) return false;
-      if (Type != other.Type) return false;
+      if (DataType != other.DataType) return false;
       if(!valuesInt_.Equals(other.valuesInt_)) return false;
       if(!valuesDouble_.Equals(other.valuesDouble_)) return false;
       if(!valuesString_.Equals(other.valuesString_)) return false;
@@ -529,7 +529,7 @@ namespace ProtoBufClientServer {
     public override int GetHashCode() {
       int hash = 1;
       if (PointName.Length != 0) hash ^= PointName.GetHashCode();
-      if (Type != 0) hash ^= Type.GetHashCode();
+      if (DataType != 0) hash ^= DataType.GetHashCode();
       hash ^= valuesInt_.GetHashCode();
       hash ^= valuesDouble_.GetHashCode();
       hash ^= valuesString_.GetHashCode();
@@ -552,9 +552,9 @@ namespace ProtoBufClientServer {
         output.WriteRawTag(10);
         output.WriteString(PointName);
       }
-      if (Type != 0) {
+      if (DataType != 0) {
         output.WriteRawTag(16);
-        output.WriteEnum((int) Type);
+        output.WriteEnum((int) DataType);
       }
       valuesInt_.WriteTo(output, _repeated_valuesInt_codec);
       valuesDouble_.WriteTo(output, _repeated_valuesDouble_codec);
@@ -572,8 +572,8 @@ namespace ProtoBufClientServer {
       if (PointName.Length != 0) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(PointName);
       }
-      if (Type != 0) {
-        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) Type);
+      if (DataType != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) DataType);
       }
       size += valuesInt_.CalculateSize(_repeated_valuesInt_codec);
       size += valuesDouble_.CalculateSize(_repeated_valuesDouble_codec);
@@ -594,8 +594,8 @@ namespace ProtoBufClientServer {
       if (other.PointName.Length != 0) {
         PointName = other.PointName;
       }
-      if (other.Type != 0) {
-        Type = other.Type;
+      if (other.DataType != 0) {
+        DataType = other.DataType;
       }
       valuesInt_.Add(other.valuesInt_);
       valuesDouble_.Add(other.valuesDouble_);
@@ -618,7 +618,7 @@ namespace ProtoBufClientServer {
             break;
           }
           case 16: {
-            type_ = (global::ProtoBufClientServer.ValuesForPoint.Types.Type) input.ReadEnum();
+            dataType_ = (global::ProtoBufClientServer.ValuesForPoint.Types.Type) input.ReadEnum();
             break;
           }
           case 26: {

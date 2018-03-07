@@ -27,7 +27,7 @@ message ValuesForPoint
       BLOB = 3;
       BOOL = 4;
    }
-   Type type = 2;
+   Type dataType = 2;
    
    message intValueWithTimestamp
    {

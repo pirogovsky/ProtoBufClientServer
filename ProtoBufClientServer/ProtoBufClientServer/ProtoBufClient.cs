@@ -21,8 +21,42 @@ namespace ProtoBufClient
          m_client.BaseAddress = uri;
       }
 
-      public HttpStatusCode SendValues(Dictionary<DateTime, Double> valuesWithTimeStamps)
-      {         
+      public HttpStatusCode SendValues<T>(Dictionary<DateTime, T> valuesWithTimeStamps, string pointName = "Super Awesome Point")
+      {
+         var message = new ProtoBufClientServer.ValuesForPoint
+         {
+            PointName = pointName            
+         };
+         
+         switch (Type.GetTypeCode(typeof(T)))
+         {
+            case TypeCode.Double:
+               message.DataType = ProtoBufClientServer.ValuesForPoint.Types.Type.Double;
+               break;
+            case TypeCode.Int64:
+               message.DataType = ProtoBufClientServer.ValuesForPoint.Types.Type.Int;
+               break;
+            case TypeCode.String:
+               message.DataType = ProtoBufClientServer.ValuesForPoint.Types.Type.String;
+               break;
+            case TypeCode.Boolean:
+               message.DataType = ProtoBufClientServer.ValuesForPoint.Types.Type.Bool;
+               break;
+            case TypeCode.Object:
+               if(Type.GetTypeCode(typeof(T).GetElementType()) == TypeCode.Byte)
+               {
+                  message.DataType = ProtoBufClientServer.ValuesForPoint.Types.Type.Blob;
+                  break;
+               }
+               else
+               {
+                  throw new ArgumentOutOfRangeException($"Dude....not a valid point type {typeof(T)}");
+               }
+            default:
+               throw new ArgumentOutOfRangeException($"Dude....not a valid point type {typeof(T)}");
+         }         
+
+
          var doubleValues = new ProtoBufClientServer.DoubleValues
          {
             Name = "Super Awesome Point"            
@@ -37,8 +71,7 @@ namespace ProtoBufClient
          var sendTask = m_client.SendAsync(request);
          sendTask.Wait();
          var response = sendTask.Result;
-         return response.StatusCode;
-         
+         return response.StatusCode;         
       }
 
     }
