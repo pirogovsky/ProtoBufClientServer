@@ -29,11 +29,42 @@ namespace ProtoBufClientServer {
             "cxIMCgRuYW1lGAEgASgJEkUKBnZhbHVlcxgCIAMoCzI1LlByb3RvQnVmQ2xp",
             "ZW50U2VydmVyLkRvdWJsZVZhbHVlcy52YWx1ZVdpdGhUaW1lc3RhbXAaTQoS",
             "dmFsdWVXaXRoVGltZXN0YW1wEg0KBXZhbHVlGAEgASgBEigKBHRpbWUYAiAB",
-            "KAsyGi5nb29nbGUucHJvdG9idWYuVGltZXN0YW1wYgZwcm90bzM="));
+            "KAsyGi5nb29nbGUucHJvdG9idWYuVGltZXN0YW1wItsHCg5WYWx1ZXNGb3JQ",
+            "b2ludBIRCglwb2ludE5hbWUYASABKAkSNwoEdHlwZRgCIAEoDjIpLlByb3Rv",
+            "QnVmQ2xpZW50U2VydmVyLlZhbHVlc0ZvclBvaW50LlR5cGUSTgoKdmFsdWVz",
+            "X2ludBgDIAMoCzI6LlByb3RvQnVmQ2xpZW50U2VydmVyLlZhbHVlc0ZvclBv",
+            "aW50LmludFZhbHVlV2l0aFRpbWVzdGFtcBJUCg12YWx1ZXNfZG91YmxlGAQg",
+            "AygLMj0uUHJvdG9CdWZDbGllbnRTZXJ2ZXIuVmFsdWVzRm9yUG9pbnQuZG91",
+            "YmxlVmFsdWVXaXRoVGltZXN0YW1wElQKDXZhbHVlc19zdHJpbmcYBSADKAsy",
+            "PS5Qcm90b0J1ZkNsaWVudFNlcnZlci5WYWx1ZXNGb3JQb2ludC5zdHJpbmdW",
+            "YWx1ZVdpdGhUaW1lc3RhbXASUAoLdmFsdWVzX2Jsb2IYBiADKAsyOy5Qcm90",
+            "b0J1ZkNsaWVudFNlcnZlci5WYWx1ZXNGb3JQb2ludC5ibG9iVmFsdWVXaXRo",
+            "VGltZXN0YW1wElAKC3ZhbHVlc19ib29sGAcgAygLMjsuUHJvdG9CdWZDbGll",
+            "bnRTZXJ2ZXIuVmFsdWVzRm9yUG9pbnQuYm9vbFZhbHVlV2l0aFRpbWVzdGFt",
+            "cBpQChVpbnRWYWx1ZVdpdGhUaW1lc3RhbXASDQoFdmFsdWUYASABKAMSKAoE",
+            "dGltZRgCIAEoCzIaLmdvb2dsZS5wcm90b2J1Zi5UaW1lc3RhbXAaUwoYZG91",
+            "YmxlVmFsdWVXaXRoVGltZXN0YW1wEg0KBXZhbHVlGAEgASgBEigKBHRpbWUY",
+            "AiABKAsyGi5nb29nbGUucHJvdG9idWYuVGltZXN0YW1wGlMKGHN0cmluZ1Zh",
+            "bHVlV2l0aFRpbWVzdGFtcBINCgV2YWx1ZRgBIAEoCRIoCgR0aW1lGAIgASgL",
+            "MhouZ29vZ2xlLnByb3RvYnVmLlRpbWVzdGFtcBpRChZibG9iVmFsdWVXaXRo",
+            "VGltZXN0YW1wEg0KBXZhbHVlGAEgASgMEigKBHRpbWUYAiABKAsyGi5nb29n",
+            "bGUucHJvdG9idWYuVGltZXN0YW1wGlEKFmJvb2xWYWx1ZVdpdGhUaW1lc3Rh",
+            "bXASDQoFdmFsdWUYASABKAgSKAoEdGltZRgCIAEoCzIaLmdvb2dsZS5wcm90",
+            "b2J1Zi5UaW1lc3RhbXAiOwoEVHlwZRIHCgNJTlQQABIKCgZET1VCTEUQARIK",
+            "CgZTVFJJTkcQAhIICgRCTE9CEAMSCAoEQk9PTBAEIoQBCgxDaGFuZ2VSZWNv",
+            "cmQSPwoJb3BlcmF0aW9uGAEgASgOMiwuUHJvdG9CdWZDbGllbnRTZXJ2ZXIu",
+            "Q2hhbmdlUmVjb3JkLk9wZXJhdGlvbhIRCglwb2ludE5hbWUYAiABKAkiIAoJ",
+            "T3BlcmF0aW9uEgcKA0FERBAAEgoKBkRFTEVURRABYgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.WellKnownTypes.TimestampReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, new pbr::GeneratedClrTypeInfo[] {
-            new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.DoubleValues), global::ProtoBufClientServer.DoubleValues.Parser, new[]{ "Name", "Values" }, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.DoubleValues.Types.valueWithTimestamp), global::ProtoBufClientServer.DoubleValues.Types.valueWithTimestamp.Parser, new[]{ "Value", "Time" }, null, null, null)})
+            new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.DoubleValues), global::ProtoBufClientServer.DoubleValues.Parser, new[]{ "Name", "Values" }, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.DoubleValues.Types.valueWithTimestamp), global::ProtoBufClientServer.DoubleValues.Types.valueWithTimestamp.Parser, new[]{ "Value", "Time" }, null, null, null)}),
+            new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ValuesForPoint), global::ProtoBufClientServer.ValuesForPoint.Parser, new[]{ "PointName", "Type", "ValuesInt", "ValuesDouble", "ValuesString", "ValuesBlob", "ValuesBool" }, null, new[]{ typeof(global::ProtoBufClientServer.ValuesForPoint.Types.Type) }, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ValuesForPoint.Types.intValueWithTimestamp), global::ProtoBufClientServer.ValuesForPoint.Types.intValueWithTimestamp.Parser, new[]{ "Value", "Time" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ValuesForPoint.Types.doubleValueWithTimestamp), global::ProtoBufClientServer.ValuesForPoint.Types.doubleValueWithTimestamp.Parser, new[]{ "Value", "Time" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ValuesForPoint.Types.stringValueWithTimestamp), global::ProtoBufClientServer.ValuesForPoint.Types.stringValueWithTimestamp.Parser, new[]{ "Value", "Time" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ValuesForPoint.Types.blobValueWithTimestamp), global::ProtoBufClientServer.ValuesForPoint.Types.blobValueWithTimestamp.Parser, new[]{ "Value", "Time" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ValuesForPoint.Types.boolValueWithTimestamp), global::ProtoBufClientServer.ValuesForPoint.Types.boolValueWithTimestamp.Parser, new[]{ "Value", "Time" }, null, null, null)}),
+            new pbr::GeneratedClrTypeInfo(typeof(global::ProtoBufClientServer.ChangeRecord), global::ProtoBufClientServer.ChangeRecord.Parser, new[]{ "Operation", "PointName" }, null, new[]{ typeof(global::ProtoBufClientServer.ChangeRecord.Types.Operation) }, null)
           }));
     }
     #endregion
@@ -352,6 +383,1262 @@ namespace ProtoBufClientServer {
           }
         }
 
+      }
+
+    }
+    #endregion
+
+  }
+
+  public sealed partial class ValuesForPoint : pb::IMessage<ValuesForPoint> {
+    private static readonly pb::MessageParser<ValuesForPoint> _parser = new pb::MessageParser<ValuesForPoint>(() => new ValuesForPoint());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<ValuesForPoint> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::ProtoBufClientServer.PidatatypesReflection.Descriptor.MessageTypes[1]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public ValuesForPoint() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public ValuesForPoint(ValuesForPoint other) : this() {
+      pointName_ = other.pointName_;
+      type_ = other.type_;
+      valuesInt_ = other.valuesInt_.Clone();
+      valuesDouble_ = other.valuesDouble_.Clone();
+      valuesString_ = other.valuesString_.Clone();
+      valuesBlob_ = other.valuesBlob_.Clone();
+      valuesBool_ = other.valuesBool_.Clone();
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public ValuesForPoint Clone() {
+      return new ValuesForPoint(this);
+    }
+
+    /// <summary>Field number for the "pointName" field.</summary>
+    public const int PointNameFieldNumber = 1;
+    private string pointName_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public string PointName {
+      get { return pointName_; }
+      set {
+        pointName_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "type" field.</summary>
+    public const int TypeFieldNumber = 2;
+    private global::ProtoBufClientServer.ValuesForPoint.Types.Type type_ = 0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::ProtoBufClientServer.ValuesForPoint.Types.Type Type {
+      get { return type_; }
+      set {
+        type_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "values_int" field.</summary>
+    public const int ValuesIntFieldNumber = 3;
+    private static readonly pb::FieldCodec<global::ProtoBufClientServer.ValuesForPoint.Types.intValueWithTimestamp> _repeated_valuesInt_codec
+        = pb::FieldCodec.ForMessage(26, global::ProtoBufClientServer.ValuesForPoint.Types.intValueWithTimestamp.Parser);
+    private readonly pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.intValueWithTimestamp> valuesInt_ = new pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.intValueWithTimestamp>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.intValueWithTimestamp> ValuesInt {
+      get { return valuesInt_; }
+    }
+
+    /// <summary>Field number for the "values_double" field.</summary>
+    public const int ValuesDoubleFieldNumber = 4;
+    private static readonly pb::FieldCodec<global::ProtoBufClientServer.ValuesForPoint.Types.doubleValueWithTimestamp> _repeated_valuesDouble_codec
+        = pb::FieldCodec.ForMessage(34, global::ProtoBufClientServer.ValuesForPoint.Types.doubleValueWithTimestamp.Parser);
+    private readonly pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.doubleValueWithTimestamp> valuesDouble_ = new pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.doubleValueWithTimestamp>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.doubleValueWithTimestamp> ValuesDouble {
+      get { return valuesDouble_; }
+    }
+
+    /// <summary>Field number for the "values_string" field.</summary>
+    public const int ValuesStringFieldNumber = 5;
+    private static readonly pb::FieldCodec<global::ProtoBufClientServer.ValuesForPoint.Types.stringValueWithTimestamp> _repeated_valuesString_codec
+        = pb::FieldCodec.ForMessage(42, global::ProtoBufClientServer.ValuesForPoint.Types.stringValueWithTimestamp.Parser);
+    private readonly pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.stringValueWithTimestamp> valuesString_ = new pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.stringValueWithTimestamp>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.stringValueWithTimestamp> ValuesString {
+      get { return valuesString_; }
+    }
+
+    /// <summary>Field number for the "values_blob" field.</summary>
+    public const int ValuesBlobFieldNumber = 6;
+    private static readonly pb::FieldCodec<global::ProtoBufClientServer.ValuesForPoint.Types.blobValueWithTimestamp> _repeated_valuesBlob_codec
+        = pb::FieldCodec.ForMessage(50, global::ProtoBufClientServer.ValuesForPoint.Types.blobValueWithTimestamp.Parser);
+    private readonly pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.blobValueWithTimestamp> valuesBlob_ = new pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.blobValueWithTimestamp>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.blobValueWithTimestamp> ValuesBlob {
+      get { return valuesBlob_; }
+    }
+
+    /// <summary>Field number for the "values_bool" field.</summary>
+    public const int ValuesBoolFieldNumber = 7;
+    private static readonly pb::FieldCodec<global::ProtoBufClientServer.ValuesForPoint.Types.boolValueWithTimestamp> _repeated_valuesBool_codec
+        = pb::FieldCodec.ForMessage(58, global::ProtoBufClientServer.ValuesForPoint.Types.boolValueWithTimestamp.Parser);
+    private readonly pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.boolValueWithTimestamp> valuesBool_ = new pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.boolValueWithTimestamp>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<global::ProtoBufClientServer.ValuesForPoint.Types.boolValueWithTimestamp> ValuesBool {
+      get { return valuesBool_; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as ValuesForPoint);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(ValuesForPoint other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (PointName != other.PointName) return false;
+      if (Type != other.Type) return false;
+      if(!valuesInt_.Equals(other.valuesInt_)) return false;
+      if(!valuesDouble_.Equals(other.valuesDouble_)) return false;
+      if(!valuesString_.Equals(other.valuesString_)) return false;
+      if(!valuesBlob_.Equals(other.valuesBlob_)) return false;
+      if(!valuesBool_.Equals(other.valuesBool_)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (PointName.Length != 0) hash ^= PointName.GetHashCode();
+      if (Type != 0) hash ^= Type.GetHashCode();
+      hash ^= valuesInt_.GetHashCode();
+      hash ^= valuesDouble_.GetHashCode();
+      hash ^= valuesString_.GetHashCode();
+      hash ^= valuesBlob_.GetHashCode();
+      hash ^= valuesBool_.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (PointName.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(PointName);
+      }
+      if (Type != 0) {
+        output.WriteRawTag(16);
+        output.WriteEnum((int) Type);
+      }
+      valuesInt_.WriteTo(output, _repeated_valuesInt_codec);
+      valuesDouble_.WriteTo(output, _repeated_valuesDouble_codec);
+      valuesString_.WriteTo(output, _repeated_valuesString_codec);
+      valuesBlob_.WriteTo(output, _repeated_valuesBlob_codec);
+      valuesBool_.WriteTo(output, _repeated_valuesBool_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (PointName.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(PointName);
+      }
+      if (Type != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) Type);
+      }
+      size += valuesInt_.CalculateSize(_repeated_valuesInt_codec);
+      size += valuesDouble_.CalculateSize(_repeated_valuesDouble_codec);
+      size += valuesString_.CalculateSize(_repeated_valuesString_codec);
+      size += valuesBlob_.CalculateSize(_repeated_valuesBlob_codec);
+      size += valuesBool_.CalculateSize(_repeated_valuesBool_codec);
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(ValuesForPoint other) {
+      if (other == null) {
+        return;
+      }
+      if (other.PointName.Length != 0) {
+        PointName = other.PointName;
+      }
+      if (other.Type != 0) {
+        Type = other.Type;
+      }
+      valuesInt_.Add(other.valuesInt_);
+      valuesDouble_.Add(other.valuesDouble_);
+      valuesString_.Add(other.valuesString_);
+      valuesBlob_.Add(other.valuesBlob_);
+      valuesBool_.Add(other.valuesBool_);
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            PointName = input.ReadString();
+            break;
+          }
+          case 16: {
+            type_ = (global::ProtoBufClientServer.ValuesForPoint.Types.Type) input.ReadEnum();
+            break;
+          }
+          case 26: {
+            valuesInt_.AddEntriesFrom(input, _repeated_valuesInt_codec);
+            break;
+          }
+          case 34: {
+            valuesDouble_.AddEntriesFrom(input, _repeated_valuesDouble_codec);
+            break;
+          }
+          case 42: {
+            valuesString_.AddEntriesFrom(input, _repeated_valuesString_codec);
+            break;
+          }
+          case 50: {
+            valuesBlob_.AddEntriesFrom(input, _repeated_valuesBlob_codec);
+            break;
+          }
+          case 58: {
+            valuesBool_.AddEntriesFrom(input, _repeated_valuesBool_codec);
+            break;
+          }
+        }
+      }
+    }
+
+    #region Nested types
+    /// <summary>Container for nested types declared in the ValuesForPoint message type.</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static partial class Types {
+      public enum Type {
+        [pbr::OriginalName("INT")] Int = 0,
+        [pbr::OriginalName("DOUBLE")] Double = 1,
+        [pbr::OriginalName("STRING")] String = 2,
+        [pbr::OriginalName("BLOB")] Blob = 3,
+        [pbr::OriginalName("BOOL")] Bool = 4,
+      }
+
+      public sealed partial class intValueWithTimestamp : pb::IMessage<intValueWithTimestamp> {
+        private static readonly pb::MessageParser<intValueWithTimestamp> _parser = new pb::MessageParser<intValueWithTimestamp>(() => new intValueWithTimestamp());
+        private pb::UnknownFieldSet _unknownFields;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public static pb::MessageParser<intValueWithTimestamp> Parser { get { return _parser; } }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public static pbr::MessageDescriptor Descriptor {
+          get { return global::ProtoBufClientServer.ValuesForPoint.Descriptor.NestedTypes[0]; }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        pbr::MessageDescriptor pb::IMessage.Descriptor {
+          get { return Descriptor; }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public intValueWithTimestamp() {
+          OnConstruction();
+        }
+
+        partial void OnConstruction();
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public intValueWithTimestamp(intValueWithTimestamp other) : this() {
+          value_ = other.value_;
+          Time = other.time_ != null ? other.Time.Clone() : null;
+          _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public intValueWithTimestamp Clone() {
+          return new intValueWithTimestamp(this);
+        }
+
+        /// <summary>Field number for the "value" field.</summary>
+        public const int ValueFieldNumber = 1;
+        private long value_;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public long Value {
+          get { return value_; }
+          set {
+            value_ = value;
+          }
+        }
+
+        /// <summary>Field number for the "time" field.</summary>
+        public const int TimeFieldNumber = 2;
+        private global::Google.Protobuf.WellKnownTypes.Timestamp time_;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public global::Google.Protobuf.WellKnownTypes.Timestamp Time {
+          get { return time_; }
+          set {
+            time_ = value;
+          }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override bool Equals(object other) {
+          return Equals(other as intValueWithTimestamp);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public bool Equals(intValueWithTimestamp other) {
+          if (ReferenceEquals(other, null)) {
+            return false;
+          }
+          if (ReferenceEquals(other, this)) {
+            return true;
+          }
+          if (Value != other.Value) return false;
+          if (!object.Equals(Time, other.Time)) return false;
+          return Equals(_unknownFields, other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override int GetHashCode() {
+          int hash = 1;
+          if (Value != 0L) hash ^= Value.GetHashCode();
+          if (time_ != null) hash ^= Time.GetHashCode();
+          if (_unknownFields != null) {
+            hash ^= _unknownFields.GetHashCode();
+          }
+          return hash;
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override string ToString() {
+          return pb::JsonFormatter.ToDiagnosticString(this);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void WriteTo(pb::CodedOutputStream output) {
+          if (Value != 0L) {
+            output.WriteRawTag(8);
+            output.WriteInt64(Value);
+          }
+          if (time_ != null) {
+            output.WriteRawTag(18);
+            output.WriteMessage(Time);
+          }
+          if (_unknownFields != null) {
+            _unknownFields.WriteTo(output);
+          }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public int CalculateSize() {
+          int size = 0;
+          if (Value != 0L) {
+            size += 1 + pb::CodedOutputStream.ComputeInt64Size(Value);
+          }
+          if (time_ != null) {
+            size += 1 + pb::CodedOutputStream.ComputeMessageSize(Time);
+          }
+          if (_unknownFields != null) {
+            size += _unknownFields.CalculateSize();
+          }
+          return size;
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void MergeFrom(intValueWithTimestamp other) {
+          if (other == null) {
+            return;
+          }
+          if (other.Value != 0L) {
+            Value = other.Value;
+          }
+          if (other.time_ != null) {
+            if (time_ == null) {
+              time_ = new global::Google.Protobuf.WellKnownTypes.Timestamp();
+            }
+            Time.MergeFrom(other.Time);
+          }
+          _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void MergeFrom(pb::CodedInputStream input) {
+          uint tag;
+          while ((tag = input.ReadTag()) != 0) {
+            switch(tag) {
+              default:
+                _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+                break;
+              case 8: {
+                Value = input.ReadInt64();
+                break;
+              }
+              case 18: {
+                if (time_ == null) {
+                  time_ = new global::Google.Protobuf.WellKnownTypes.Timestamp();
+                }
+                input.ReadMessage(time_);
+                break;
+              }
+            }
+          }
+        }
+
+      }
+
+      public sealed partial class doubleValueWithTimestamp : pb::IMessage<doubleValueWithTimestamp> {
+        private static readonly pb::MessageParser<doubleValueWithTimestamp> _parser = new pb::MessageParser<doubleValueWithTimestamp>(() => new doubleValueWithTimestamp());
+        private pb::UnknownFieldSet _unknownFields;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public static pb::MessageParser<doubleValueWithTimestamp> Parser { get { return _parser; } }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public static pbr::MessageDescriptor Descriptor {
+          get { return global::ProtoBufClientServer.ValuesForPoint.Descriptor.NestedTypes[1]; }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        pbr::MessageDescriptor pb::IMessage.Descriptor {
+          get { return Descriptor; }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public doubleValueWithTimestamp() {
+          OnConstruction();
+        }
+
+        partial void OnConstruction();
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public doubleValueWithTimestamp(doubleValueWithTimestamp other) : this() {
+          value_ = other.value_;
+          Time = other.time_ != null ? other.Time.Clone() : null;
+          _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public doubleValueWithTimestamp Clone() {
+          return new doubleValueWithTimestamp(this);
+        }
+
+        /// <summary>Field number for the "value" field.</summary>
+        public const int ValueFieldNumber = 1;
+        private double value_;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public double Value {
+          get { return value_; }
+          set {
+            value_ = value;
+          }
+        }
+
+        /// <summary>Field number for the "time" field.</summary>
+        public const int TimeFieldNumber = 2;
+        private global::Google.Protobuf.WellKnownTypes.Timestamp time_;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public global::Google.Protobuf.WellKnownTypes.Timestamp Time {
+          get { return time_; }
+          set {
+            time_ = value;
+          }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override bool Equals(object other) {
+          return Equals(other as doubleValueWithTimestamp);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public bool Equals(doubleValueWithTimestamp other) {
+          if (ReferenceEquals(other, null)) {
+            return false;
+          }
+          if (ReferenceEquals(other, this)) {
+            return true;
+          }
+          if (!pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.Equals(Value, other.Value)) return false;
+          if (!object.Equals(Time, other.Time)) return false;
+          return Equals(_unknownFields, other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override int GetHashCode() {
+          int hash = 1;
+          if (Value != 0D) hash ^= pbc::ProtobufEqualityComparers.BitwiseDoubleEqualityComparer.GetHashCode(Value);
+          if (time_ != null) hash ^= Time.GetHashCode();
+          if (_unknownFields != null) {
+            hash ^= _unknownFields.GetHashCode();
+          }
+          return hash;
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override string ToString() {
+          return pb::JsonFormatter.ToDiagnosticString(this);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void WriteTo(pb::CodedOutputStream output) {
+          if (Value != 0D) {
+            output.WriteRawTag(9);
+            output.WriteDouble(Value);
+          }
+          if (time_ != null) {
+            output.WriteRawTag(18);
+            output.WriteMessage(Time);
+          }
+          if (_unknownFields != null) {
+            _unknownFields.WriteTo(output);
+          }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public int CalculateSize() {
+          int size = 0;
+          if (Value != 0D) {
+            size += 1 + 8;
+          }
+          if (time_ != null) {
+            size += 1 + pb::CodedOutputStream.ComputeMessageSize(Time);
+          }
+          if (_unknownFields != null) {
+            size += _unknownFields.CalculateSize();
+          }
+          return size;
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void MergeFrom(doubleValueWithTimestamp other) {
+          if (other == null) {
+            return;
+          }
+          if (other.Value != 0D) {
+            Value = other.Value;
+          }
+          if (other.time_ != null) {
+            if (time_ == null) {
+              time_ = new global::Google.Protobuf.WellKnownTypes.Timestamp();
+            }
+            Time.MergeFrom(other.Time);
+          }
+          _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void MergeFrom(pb::CodedInputStream input) {
+          uint tag;
+          while ((tag = input.ReadTag()) != 0) {
+            switch(tag) {
+              default:
+                _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+                break;
+              case 9: {
+                Value = input.ReadDouble();
+                break;
+              }
+              case 18: {
+                if (time_ == null) {
+                  time_ = new global::Google.Protobuf.WellKnownTypes.Timestamp();
+                }
+                input.ReadMessage(time_);
+                break;
+              }
+            }
+          }
+        }
+
+      }
+
+      public sealed partial class stringValueWithTimestamp : pb::IMessage<stringValueWithTimestamp> {
+        private static readonly pb::MessageParser<stringValueWithTimestamp> _parser = new pb::MessageParser<stringValueWithTimestamp>(() => new stringValueWithTimestamp());
+        private pb::UnknownFieldSet _unknownFields;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public static pb::MessageParser<stringValueWithTimestamp> Parser { get { return _parser; } }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public static pbr::MessageDescriptor Descriptor {
+          get { return global::ProtoBufClientServer.ValuesForPoint.Descriptor.NestedTypes[2]; }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        pbr::MessageDescriptor pb::IMessage.Descriptor {
+          get { return Descriptor; }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public stringValueWithTimestamp() {
+          OnConstruction();
+        }
+
+        partial void OnConstruction();
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public stringValueWithTimestamp(stringValueWithTimestamp other) : this() {
+          value_ = other.value_;
+          Time = other.time_ != null ? other.Time.Clone() : null;
+          _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public stringValueWithTimestamp Clone() {
+          return new stringValueWithTimestamp(this);
+        }
+
+        /// <summary>Field number for the "value" field.</summary>
+        public const int ValueFieldNumber = 1;
+        private string value_ = "";
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public string Value {
+          get { return value_; }
+          set {
+            value_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+          }
+        }
+
+        /// <summary>Field number for the "time" field.</summary>
+        public const int TimeFieldNumber = 2;
+        private global::Google.Protobuf.WellKnownTypes.Timestamp time_;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public global::Google.Protobuf.WellKnownTypes.Timestamp Time {
+          get { return time_; }
+          set {
+            time_ = value;
+          }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override bool Equals(object other) {
+          return Equals(other as stringValueWithTimestamp);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public bool Equals(stringValueWithTimestamp other) {
+          if (ReferenceEquals(other, null)) {
+            return false;
+          }
+          if (ReferenceEquals(other, this)) {
+            return true;
+          }
+          if (Value != other.Value) return false;
+          if (!object.Equals(Time, other.Time)) return false;
+          return Equals(_unknownFields, other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override int GetHashCode() {
+          int hash = 1;
+          if (Value.Length != 0) hash ^= Value.GetHashCode();
+          if (time_ != null) hash ^= Time.GetHashCode();
+          if (_unknownFields != null) {
+            hash ^= _unknownFields.GetHashCode();
+          }
+          return hash;
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override string ToString() {
+          return pb::JsonFormatter.ToDiagnosticString(this);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void WriteTo(pb::CodedOutputStream output) {
+          if (Value.Length != 0) {
+            output.WriteRawTag(10);
+            output.WriteString(Value);
+          }
+          if (time_ != null) {
+            output.WriteRawTag(18);
+            output.WriteMessage(Time);
+          }
+          if (_unknownFields != null) {
+            _unknownFields.WriteTo(output);
+          }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public int CalculateSize() {
+          int size = 0;
+          if (Value.Length != 0) {
+            size += 1 + pb::CodedOutputStream.ComputeStringSize(Value);
+          }
+          if (time_ != null) {
+            size += 1 + pb::CodedOutputStream.ComputeMessageSize(Time);
+          }
+          if (_unknownFields != null) {
+            size += _unknownFields.CalculateSize();
+          }
+          return size;
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void MergeFrom(stringValueWithTimestamp other) {
+          if (other == null) {
+            return;
+          }
+          if (other.Value.Length != 0) {
+            Value = other.Value;
+          }
+          if (other.time_ != null) {
+            if (time_ == null) {
+              time_ = new global::Google.Protobuf.WellKnownTypes.Timestamp();
+            }
+            Time.MergeFrom(other.Time);
+          }
+          _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void MergeFrom(pb::CodedInputStream input) {
+          uint tag;
+          while ((tag = input.ReadTag()) != 0) {
+            switch(tag) {
+              default:
+                _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+                break;
+              case 10: {
+                Value = input.ReadString();
+                break;
+              }
+              case 18: {
+                if (time_ == null) {
+                  time_ = new global::Google.Protobuf.WellKnownTypes.Timestamp();
+                }
+                input.ReadMessage(time_);
+                break;
+              }
+            }
+          }
+        }
+
+      }
+
+      public sealed partial class blobValueWithTimestamp : pb::IMessage<blobValueWithTimestamp> {
+        private static readonly pb::MessageParser<blobValueWithTimestamp> _parser = new pb::MessageParser<blobValueWithTimestamp>(() => new blobValueWithTimestamp());
+        private pb::UnknownFieldSet _unknownFields;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public static pb::MessageParser<blobValueWithTimestamp> Parser { get { return _parser; } }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public static pbr::MessageDescriptor Descriptor {
+          get { return global::ProtoBufClientServer.ValuesForPoint.Descriptor.NestedTypes[3]; }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        pbr::MessageDescriptor pb::IMessage.Descriptor {
+          get { return Descriptor; }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public blobValueWithTimestamp() {
+          OnConstruction();
+        }
+
+        partial void OnConstruction();
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public blobValueWithTimestamp(blobValueWithTimestamp other) : this() {
+          value_ = other.value_;
+          Time = other.time_ != null ? other.Time.Clone() : null;
+          _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public blobValueWithTimestamp Clone() {
+          return new blobValueWithTimestamp(this);
+        }
+
+        /// <summary>Field number for the "value" field.</summary>
+        public const int ValueFieldNumber = 1;
+        private pb::ByteString value_ = pb::ByteString.Empty;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public pb::ByteString Value {
+          get { return value_; }
+          set {
+            value_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+          }
+        }
+
+        /// <summary>Field number for the "time" field.</summary>
+        public const int TimeFieldNumber = 2;
+        private global::Google.Protobuf.WellKnownTypes.Timestamp time_;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public global::Google.Protobuf.WellKnownTypes.Timestamp Time {
+          get { return time_; }
+          set {
+            time_ = value;
+          }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override bool Equals(object other) {
+          return Equals(other as blobValueWithTimestamp);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public bool Equals(blobValueWithTimestamp other) {
+          if (ReferenceEquals(other, null)) {
+            return false;
+          }
+          if (ReferenceEquals(other, this)) {
+            return true;
+          }
+          if (Value != other.Value) return false;
+          if (!object.Equals(Time, other.Time)) return false;
+          return Equals(_unknownFields, other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override int GetHashCode() {
+          int hash = 1;
+          if (Value.Length != 0) hash ^= Value.GetHashCode();
+          if (time_ != null) hash ^= Time.GetHashCode();
+          if (_unknownFields != null) {
+            hash ^= _unknownFields.GetHashCode();
+          }
+          return hash;
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override string ToString() {
+          return pb::JsonFormatter.ToDiagnosticString(this);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void WriteTo(pb::CodedOutputStream output) {
+          if (Value.Length != 0) {
+            output.WriteRawTag(10);
+            output.WriteBytes(Value);
+          }
+          if (time_ != null) {
+            output.WriteRawTag(18);
+            output.WriteMessage(Time);
+          }
+          if (_unknownFields != null) {
+            _unknownFields.WriteTo(output);
+          }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public int CalculateSize() {
+          int size = 0;
+          if (Value.Length != 0) {
+            size += 1 + pb::CodedOutputStream.ComputeBytesSize(Value);
+          }
+          if (time_ != null) {
+            size += 1 + pb::CodedOutputStream.ComputeMessageSize(Time);
+          }
+          if (_unknownFields != null) {
+            size += _unknownFields.CalculateSize();
+          }
+          return size;
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void MergeFrom(blobValueWithTimestamp other) {
+          if (other == null) {
+            return;
+          }
+          if (other.Value.Length != 0) {
+            Value = other.Value;
+          }
+          if (other.time_ != null) {
+            if (time_ == null) {
+              time_ = new global::Google.Protobuf.WellKnownTypes.Timestamp();
+            }
+            Time.MergeFrom(other.Time);
+          }
+          _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void MergeFrom(pb::CodedInputStream input) {
+          uint tag;
+          while ((tag = input.ReadTag()) != 0) {
+            switch(tag) {
+              default:
+                _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+                break;
+              case 10: {
+                Value = input.ReadBytes();
+                break;
+              }
+              case 18: {
+                if (time_ == null) {
+                  time_ = new global::Google.Protobuf.WellKnownTypes.Timestamp();
+                }
+                input.ReadMessage(time_);
+                break;
+              }
+            }
+          }
+        }
+
+      }
+
+      public sealed partial class boolValueWithTimestamp : pb::IMessage<boolValueWithTimestamp> {
+        private static readonly pb::MessageParser<boolValueWithTimestamp> _parser = new pb::MessageParser<boolValueWithTimestamp>(() => new boolValueWithTimestamp());
+        private pb::UnknownFieldSet _unknownFields;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public static pb::MessageParser<boolValueWithTimestamp> Parser { get { return _parser; } }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public static pbr::MessageDescriptor Descriptor {
+          get { return global::ProtoBufClientServer.ValuesForPoint.Descriptor.NestedTypes[4]; }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        pbr::MessageDescriptor pb::IMessage.Descriptor {
+          get { return Descriptor; }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public boolValueWithTimestamp() {
+          OnConstruction();
+        }
+
+        partial void OnConstruction();
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public boolValueWithTimestamp(boolValueWithTimestamp other) : this() {
+          value_ = other.value_;
+          Time = other.time_ != null ? other.Time.Clone() : null;
+          _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public boolValueWithTimestamp Clone() {
+          return new boolValueWithTimestamp(this);
+        }
+
+        /// <summary>Field number for the "value" field.</summary>
+        public const int ValueFieldNumber = 1;
+        private bool value_;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public bool Value {
+          get { return value_; }
+          set {
+            value_ = value;
+          }
+        }
+
+        /// <summary>Field number for the "time" field.</summary>
+        public const int TimeFieldNumber = 2;
+        private global::Google.Protobuf.WellKnownTypes.Timestamp time_;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public global::Google.Protobuf.WellKnownTypes.Timestamp Time {
+          get { return time_; }
+          set {
+            time_ = value;
+          }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override bool Equals(object other) {
+          return Equals(other as boolValueWithTimestamp);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public bool Equals(boolValueWithTimestamp other) {
+          if (ReferenceEquals(other, null)) {
+            return false;
+          }
+          if (ReferenceEquals(other, this)) {
+            return true;
+          }
+          if (Value != other.Value) return false;
+          if (!object.Equals(Time, other.Time)) return false;
+          return Equals(_unknownFields, other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override int GetHashCode() {
+          int hash = 1;
+          if (Value != false) hash ^= Value.GetHashCode();
+          if (time_ != null) hash ^= Time.GetHashCode();
+          if (_unknownFields != null) {
+            hash ^= _unknownFields.GetHashCode();
+          }
+          return hash;
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public override string ToString() {
+          return pb::JsonFormatter.ToDiagnosticString(this);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void WriteTo(pb::CodedOutputStream output) {
+          if (Value != false) {
+            output.WriteRawTag(8);
+            output.WriteBool(Value);
+          }
+          if (time_ != null) {
+            output.WriteRawTag(18);
+            output.WriteMessage(Time);
+          }
+          if (_unknownFields != null) {
+            _unknownFields.WriteTo(output);
+          }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public int CalculateSize() {
+          int size = 0;
+          if (Value != false) {
+            size += 1 + 1;
+          }
+          if (time_ != null) {
+            size += 1 + pb::CodedOutputStream.ComputeMessageSize(Time);
+          }
+          if (_unknownFields != null) {
+            size += _unknownFields.CalculateSize();
+          }
+          return size;
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void MergeFrom(boolValueWithTimestamp other) {
+          if (other == null) {
+            return;
+          }
+          if (other.Value != false) {
+            Value = other.Value;
+          }
+          if (other.time_ != null) {
+            if (time_ == null) {
+              time_ = new global::Google.Protobuf.WellKnownTypes.Timestamp();
+            }
+            Time.MergeFrom(other.Time);
+          }
+          _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        public void MergeFrom(pb::CodedInputStream input) {
+          uint tag;
+          while ((tag = input.ReadTag()) != 0) {
+            switch(tag) {
+              default:
+                _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+                break;
+              case 8: {
+                Value = input.ReadBool();
+                break;
+              }
+              case 18: {
+                if (time_ == null) {
+                  time_ = new global::Google.Protobuf.WellKnownTypes.Timestamp();
+                }
+                input.ReadMessage(time_);
+                break;
+              }
+            }
+          }
+        }
+
+      }
+
+    }
+    #endregion
+
+  }
+
+  public sealed partial class ChangeRecord : pb::IMessage<ChangeRecord> {
+    private static readonly pb::MessageParser<ChangeRecord> _parser = new pb::MessageParser<ChangeRecord>(() => new ChangeRecord());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<ChangeRecord> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::ProtoBufClientServer.PidatatypesReflection.Descriptor.MessageTypes[2]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public ChangeRecord() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public ChangeRecord(ChangeRecord other) : this() {
+      operation_ = other.operation_;
+      pointName_ = other.pointName_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public ChangeRecord Clone() {
+      return new ChangeRecord(this);
+    }
+
+    /// <summary>Field number for the "operation" field.</summary>
+    public const int OperationFieldNumber = 1;
+    private global::ProtoBufClientServer.ChangeRecord.Types.Operation operation_ = 0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::ProtoBufClientServer.ChangeRecord.Types.Operation Operation {
+      get { return operation_; }
+      set {
+        operation_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "pointName" field.</summary>
+    public const int PointNameFieldNumber = 2;
+    private string pointName_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public string PointName {
+      get { return pointName_; }
+      set {
+        pointName_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as ChangeRecord);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(ChangeRecord other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (Operation != other.Operation) return false;
+      if (PointName != other.PointName) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (Operation != 0) hash ^= Operation.GetHashCode();
+      if (PointName.Length != 0) hash ^= PointName.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (Operation != 0) {
+        output.WriteRawTag(8);
+        output.WriteEnum((int) Operation);
+      }
+      if (PointName.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(PointName);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (Operation != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) Operation);
+      }
+      if (PointName.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(PointName);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(ChangeRecord other) {
+      if (other == null) {
+        return;
+      }
+      if (other.Operation != 0) {
+        Operation = other.Operation;
+      }
+      if (other.PointName.Length != 0) {
+        PointName = other.PointName;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            operation_ = (global::ProtoBufClientServer.ChangeRecord.Types.Operation) input.ReadEnum();
+            break;
+          }
+          case 18: {
+            PointName = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+
+    #region Nested types
+    /// <summary>Container for nested types declared in the ChangeRecord message type.</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static partial class Types {
+      public enum Operation {
+        [pbr::OriginalName("ADD")] Add = 0,
+        [pbr::OriginalName("DELETE")] Delete = 1,
       }
 
     }

@@ -14,3 +14,60 @@ message DoubleValues
    }
    repeated valueWithTimestamp values = 2;
 }
+
+message ValuesForPoint
+{
+   string pointName = 1;
+
+   enum Type 
+   {
+      INT = 0;
+      DOUBLE = 1;
+      STRING = 2;
+      BLOB = 3;
+      BOOL = 4;
+   }
+   Type type = 2;
+   
+   message intValueWithTimestamp
+   {
+      int64 value = 1;
+      google.protobuf.Timestamp time = 2;
+   }
+   message doubleValueWithTimestamp
+   {
+      double value = 1;
+      google.protobuf.Timestamp time = 2;
+   }
+   message stringValueWithTimestamp
+   {  
+      string value = 1;
+      google.protobuf.Timestamp time = 2;
+   }
+   message blobValueWithTimestamp
+   {
+      bytes value = 1;
+      google.protobuf.Timestamp time = 2;
+   }
+   message boolValueWithTimestamp
+   {
+      bool value = 1;
+      google.protobuf.Timestamp time = 2;
+   }
+   repeated intValueWithTimestamp values_int = 3;
+   repeated doubleValueWithTimestamp values_double = 4;
+   repeated stringValueWithTimestamp values_string = 5;
+   repeated blobValueWithTimestamp values_blob = 6;
+   repeated boolValueWithTimestamp values_bool = 7;
+}
+
+message ChangeRecord
+{
+   enum Operation
+   {
+      ADD=0;
+      DELETE=1;      
+   }
+   Operation operation = 1;
+   string pointName = 2;
+}

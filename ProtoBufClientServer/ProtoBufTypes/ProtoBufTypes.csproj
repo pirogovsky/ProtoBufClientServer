@@ -9,4 +9,8 @@
     <PackageReference Include="Google.Protobuf.Tools" Version="3.5.1" />
   </ItemGroup>
 
+  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="protoc.exe --proto_path=.\google\protobuf --csharp_out=.\ pidatatypes.proto" />
+  </Target>
+
 </Project>
